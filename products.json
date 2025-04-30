@@ -1,0 +1,2078 @@
+{
+  "furniture": [
+    {
+      "id": "f001",
+      "name": "FMDR 1C Plastic Cabinet with 1 Drawer (Brown & Biscuit)",
+      "category": "furniture",
+      "image": "images/furniture/f1.png",
+      "description": "This durable cabinet features high-quality plastic construction and a handy double double door design, making it ideal for household usageium fabric",
+      "additionalImages": [
+        "images/furniture/f1_1.png",
+        "images/furniture/f1_2.png",
+        "images/furniture/f1_3.png"
+      ],
+      "details": [
+        "Aside from its lightweight design, the cabinet features knockdown construction making it extremely robust",
+        "The drawer has efficient channels that make it easy to manage",
+        "Comfortable cushioning",
+        "Easy to clean",
+        "Freedom FMDR 1C Plastic Storage Cabinet becomes a breeze"
+      ]
+    },
+    {
+      "id": "f002",
+      "name": " Mini Large (FML) Plastic Storage Cabinet (Weathered Brown / Biscuit)",
+      "category": "furniture",
+      "image": "images/furniture/f2.png",
+      "description": "The Modern & Contemporary designed double door storage cabinet is durable and features high-quality plastic construction an ideal storage solution for every and any house hold.",
+      "additionalImages": [
+        "images/furniture/f2_1.png",
+        "images/furniture/f2_2.png",
+        "images/furniture/f2_3.png"
+      ],
+      "details": [
+        " Plastic Storage Cabinet becomes a breeze. Aside from its lightweight design, the cabinet features knockdown construction making it extremely robust.",
+        "The cabinet comes with 4 shelves to solve all your storage solution.",
+        "Safety lock and tower bolt provide protection, contemporary design to elevate your living space"
+       
+      ]
+    },
+    {
+      "id": "f003",
+      "name": "Nilkamal Freedom Mini Small (FMS) Plastic Storage Cabinet (Weathered Brown / Biscuit)",
+      "category": "furniture",
+      "image": "images/furniture/f3.png",
+      "description": "LIGHTWEIGHT DOUBLE-DOOR CABINET CRAFTED WITH HIGH-QUALITY PLASTIC : Organize your room space with Nilkamal's FMS plastic storage cabinet. This durable cabinet features high-quality plastic construction and a handy double door design, making it ideal for household usagege",
+      "additionalImages": [
+        "images/furniture/f3_1.png",
+        "images/furniture/f3_2.png",
+        "images/furniture/f3_3.png"
+      ],
+      "details": [
+        "EASY TO ASSEMBLE DESIGN & HIGHLY RESILIENT KNOCKDOWN BUILD : With an easy-to-assemble design, putting together the Freedom FMS Plastic Storage Cabinet becomes a breeze. Aside from its lightweight design, the cabinet features knockdown construction making it extremely robust",
+        "EQUIPPED WITH MULTIPLE EASY-TO-CLEAN AND ADJUSTABLE SHELVES : Cleaning your cabinet is never a problem with the Freedom FMS Plastic Storage Cabinet. In addition to offering ample storage space through adjustable shelves, the cabinet is easy to clean so that you don't have to spend hours cleaning it",
+        "CDESIGNED TO RESIST CORROSION AND TERMITES EFFECTIVELY : A hardwood cabinet is always prone to termite infestation, but that is not the case with Nilkamal's Freedom FMS Plastic Storage Cabinet. This cabinet is engineered to be corrosion and termite resistant, allowing it to survive longer than a standard cabinet"
+        
+      ]
+    },
+    {
+      "id": "f004",
+      "name": "Mini Medium (FMM) Plastic Storage Cabinet (Weathered Brown / Biscuit)",
+      "category": "furniture",
+      "image": "images/furniture/f4.png",
+      "description": "Spacious Freedom Mini Medium (FMM) Cabinet",
+      "additionalImages": [
+        "images/furniture/f4_!.png",
+        "images/furniture/f4_2.png",
+        "images/furniture/f4_3.png"
+      ],
+      "details": [
+        "Crafted from high-quality and enduring plastic",
+        "Three adjustable shelves for books and clothes",
+        "Safety lock and tower bolt provide protection.",
+        "Contemporary design that is easy to assemble",
+        "Lightweight and multipurpose dual-door, Solid Patter cabinet."
+      ]
+    },
+    {
+      "id": "f005",
+      "name": "FMDR 1B Plastic Storage Cabinet with 1 Drawer (Weathered Brown / Biscuit)",
+      "category": "furniture",
+      "image": "images/furniture/f5.png",
+      "description": "Llightweight double-door cabinet crafted with high-quality plastic",
+      "additionalImages": [
+        "images/furniture/f5_1.png",
+        "images/furniture/f5_2.png",
+        "images/furniture/f5_3.png"
+      ],
+      "details": [
+        "Dig the exclusive drawer at the bottom for more storage space",
+        "Equipped with multiple easy-to-clean and adjustable shelves",
+        "Easy to assemble design & highly-resilient knockdown build",
+        "Built-in safety with a sturdy door lock and tower bolt",
+        "Designed to resist corrosion and termites effectively"
+      ]
+    },
+    {
+      "id": "f006",
+      "name": "FMDR 2B Plastic Storage Cabinet with 2 Drawer (Weathered Brown / Biscuit)",
+      "category": "furniture",
+      "image": "images/furniture/f6.png",
+      "description": "High-quality plastic construction with termite and corrosion resistance",
+      "additionalImages": [
+        "images/furniture/f6_1.png",
+        "images/furniture/f6_2.png",
+        "images/furniture/f6_3.png"
+      ],
+      "details": [
+        "Exclusive bottom drawers for extra storage space",
+          "Easy-to-clean adjustable shelves provide versatile storage options",
+         "Easy-to-assemble light-weight design with a knockdown build",
+         "Built-in safety with sturdy door lock and tower bolt",
+         "Designed to resist corrosion and termites effectively"
+      ]
+    },
+    {
+      "id": "f007",
+      "name": " Big 1 (FB1) Plastic Storage Cabinet (Weathered Brown and Biscuit)",
+      "category": "furniture",
+      "image": "images/furniture/f7.png",
+      "description": "The Modern & Contemporary designed double door storage cabinet is durable and features high-quality plastic construction an ideal storage solution for every and any house hold",
+      "additionalImages": [
+        "images/furniture/f7_1.png",
+        "images/furniture/f7_2.png",
+        "images/furniture/f7_3.png"
+      ],
+      "details": [
+        "Aside from its lightweight design, the cabinet features knockdown construction making it extremely robust",
+          "Safety lock and tower bolt provide protection, contemporary design to elevate your living space",
+         "The cabinet comes with three shelves to solve all your storage solution",
+         "FMDR 1C Plastic Storage Cabinet becomes a breeze"
+      ]
+    },
+    {
+      "id": "f008",
+      "name": " FMDR 1B Plastic Storage Cabinet with 1 Drawer (Deep Blue / Grey)",
+      "category": "furniture",
+      "image": "images/furniture/f8.png",
+      "description": "Lightweight double-door cabinet crafted with high-quality plastic",
+      "additionalImages": [
+        "images/furniture/f8_1.png",
+        "images/furniture/f8_2.png",
+        "images/furniture/f8_3.png"
+      ],
+      "details": [
+        "Dig the exclusive drawer at the bottom for more storage space",
+        "Equipped with multiple easy-to-clean and adjustable shelves",
+        "Built-in safety with a sturdy door lock and tower bolt",
+        "Designed to resist corrosion and termites effectively"
+      ]
+    },
+    {
+      "id": "f009",
+      "name": " Mini 09 (FMSC09) Plastic Shoe Cabinet (Sandy Brown / Dark Brown)",
+      "category": "furniture",
+      "image": "images/furniture/f9.png",
+      "description": "Lightweight double-door cabinet crafted with high-quality plastic",
+      "additionalImages": [
+        "images/furniture/f9_1.png",
+        "images/furniture/f9_2.png",
+        "images/furniture/f9_3.png"
+      ],
+      "details": [
+        "Dig the exclusive drawer at the bottom for more storage space",
+        "Equipped with multiple easy-to-clean and adjustable shelves",
+        "Easy to assemble design & highly-resilient knockdown build",
+        "Designed to resist corrosion and termites effectively"
+      ]
+    },
+    {
+      "id": "f010",
+      "name": " Mini Shoe Cabinet 18 (Rust and Weathered Brown)",
+      "category": "furniture",
+      "image": "images/furniture/f10.png",
+      "description": "Lightweight double-door cabinet crafted with high-quality plastic",
+      "additionalImages": [
+        "images/furniture/f10_1.png",
+        "images/furniture/f10_2.png",
+        "images/furniture/f10_3.png"
+      ],
+      "details": [
+        "Dig the exclusive drawer at the bottom for more storage space",
+        "Equipped with multiple easy-to-clean and adjustable shelves",
+        "Easy to assemble design & highly-resilient knockdown build",
+        "Built-in safety with a sturdy door lock and tower bolt"
+      ]
+    },
+    {
+      "id": "f011",
+      "name": " Mini 18 (FMSC18) Plastic Shoe Cabinet (Sandy Brown / Dark Brown)",
+      "category": "furniture",
+      "image": "images/furniture/f11.png",
+      "description": "LIGHTWEIGHT DOUBLE-DOOR CABINET CRAFTED WITH HIGH-QUALITY PLASTIC - Organize your room space with plastic Shoe cabinet. This durable cabinet features high-quality plastic construction and a handy double door design, making it ideal for household usage. There are two colour themes on this cabinet: Sandy Brown & Dark Brown.",
+      "additionalImages": [
+        "images/furniture/f11_1.png",
+        "images/furniture/f11_2.png",
+        "images/furniture/f11_3.png"
+      ],
+      "details": [
+        "BUILT-IN SAFETY WITH A STURDY DOOR LOCK AND TOWER BOLT - The lightweight plastic cabinet does not jeoEquipped with multiple epardise the safety and security of your valuables. Your possessions are always safe and secure, thanks to the robust door lock and tower bolt.",
+        "DIG EXCLUSIVE METAL RODS FOR STORING YOUR FAVOURITE FOOTWEARS - Are you looking for a cabinet with space for shoes? Nilkamal presents the Freedom FMSC18 Plastic Shoe Cabinet, which has metal rods for storing footwear like heels, flats and formal shoes. You can easily put your favourite shoes between the rods.",
+        "EQUIPPED WITH MULTIPLE EASY-TO-CLEAN AND ADJUSTABLE SHELVES - Cleaning your cabinet is never a problem with the Freedom FMSC18 Plastic Shoe Cabinet. In addition to offering ample storage space through adjustable shelves, the cabinet is easy to clean so that you don't have to spend hours cleaning it."
+      ]
+    },
+    {
+      "id": "f012",
+      "name": " FMDR 1C Plastic Storage Cabinet with 1 Drawer (Deep Blue & Grey)",
+      "category": "furniture",
+      "image": "images/furniture/f12.png",
+      "description": "LIGHTWEIGHT DOUBLE-DOOR CABINET CRAFTED WITH HIGH-QUALITY PLASTIC - Organize your room space with plastic Shoe cabinet. This durable cabinet features high-quality plastic construction and a handy double door design, making it ideal for household usage. There are two colour themes on this cabinet: Sandy Brown & Dark Brown.",
+      "additionalImages": [
+        "images/furniture/f12_1.png",
+        "images/furniture/f12_2.png",
+        "images/furniture/f12_3.png"
+      ],
+      "details": [
+        "High-quality plastic construction for lasting durability",
+        "Features a double door design for convenient storage",
+        "Includes an additional drawer for enhanced storage options"
+      ]
+    },
+    {
+      "id": "f013",
+      "name": " 2 (FB 2) Plastic Storage Cabinet",
+      "category": "furniture",
+      "image": "images/furniture/f13.png",
+      "description": "Long-lasting knockdown plastic construction",
+      "additionalImages": [
+        "images/furniture/f13_1.png",
+        "images/furniture/f13_2.png",
+        "images/furniture/f13_3.png"
+      ],
+      "details": [
+        "A safety lock and tower bolt provide security",
+        "Spacious compartments offer storage space",
+        "Modern, lightweight structure with two doors"
+      ]
+    },
+    {
+      "id": "f014",
+      "name": "  Big 1 (FB1) Plastic Storage Cabinet (Pepsi Blue, Bright Red and Yellow)",
+      "category": "furniture",
+      "image": "images/furniture/f14.png",
+      "description": "The Modern & Contemporary designed double door storage cabinet is durable and features high-quality plastic construction an ideal storage solution for every and any house hold",
+      "additionalImages": [
+        "images/furniture/f14_1.png",
+        "images/furniture/f14_2.png",
+        "images/furniture/f14_3.png"
+      ],
+      "details": [
+        "Aside from its lightweight design, the cabinet features knockdown construction making it extremely robust",
+        "Safety lock and tower bolt provide protection, contemporary design to elevate your living space",
+        "The cabinet comes with three shelves to solve all your storage solution"
+      ]
+    },
+    {
+      "id": "f015",
+      "name": "  Big 6 (FB 6) Plastic Storage Cabinet (Ratan Dark Beige / New Cream)",
+      "category": "furniture",
+      "image": "images/furniture/f15.png",
+      "description": "Wooden texture Double door design Door lock with tower bolt and adjustable shelves with cloth Hanging rod Termite free",
+      "additionalImages": [
+        "images/furniture/f15_1.png",
+        "images/furniture/f15_2.png",
+        "images/furniture/f15_3.png"
+      ],
+      "details": [
+        "Two shelves storage space to suffice your multipurpose storage solution",
+        "Safety lock and tower bolt provide protection",
+        "Crafted from high-quality and enduring plastic"
+      ]
+    },
+    {
+      "id": "f016",
+      "name": "   Big 1 (FB1M) Plastic Storage Cabinet with Mirror (Weather Brown & Biscuit)",
+      "category": "furniture",
+      "image": "images/furniture/f16.png",
+      "description": "The Modern & Contemporary designed double door storage cabinet is durable and features high-quality plastic construction an ideal storage solution for every and any house hold",
+      "additionalImages": [
+        "images/furniture/f16_1.png",
+        "images/furniture/f16_2.png",
+        "images/furniture/f16_3.png"
+      ],
+      "details": [
+        "Safety lock and tower bolt provide protection, contemporary design and has glass mirror to suffice your fashionista mood",
+        "Aside from its lightweight design, the cabinet features knockdown construction making it extremely robust",
+        "The cabinet comes with three shelves to solve all your storage solution"
+      ]
+    },
+    {
+      "id": "f017",
+      "name": "   Mini Large (FML) Plastic Storage Cabinet (Deep Blue / Grey)",
+      "category": "furniture",
+      "image": "images/furniture/f17.png",
+      "description": "The Modern & Contemporary designed double door storage cabinet is durable and features high-quality plastic construction an ideal storage solution for every and any house hold",
+      "additionalImages": [
+        "images/furniture/f17_1.png",
+        "images/furniture/f17_2.png",
+        "images/furniture/f17_3.png"
+      ],
+      "details": [
+        "Aside from its lightweight design, the cabinet features knockdown construction making it extremely robust",
+        "Safety lock and tower bolt provide protection, contemporary design to elevate your living space",
+        "The cabinet comes with three shelves to solve all your storage solution"
+      ]
+    },
+    {
+      "id": "f018",
+      "name": "   Mini Small (FMS) Plastic Storage Cabinet (Deep Blue / Grey)",
+      "category": "furniture",
+      "image": "images/furniture/f18.png",
+      "description": "Crafted from high-quality and enduring plastic",
+      "additionalImages": [
+        "images/furniture/f18_1.png",
+        "images/furniture/f18_2.png",
+        "images/furniture/f18_3.png"
+      ],
+      "details": [
+        "Adjustable shelf for books and clothes",
+        "Resistant to corrosion and termites, ensuring long-lasting durability",
+        "Modern, easy-assemble knockdown design with dual doors"
+      ]
+    },
+    {
+      "id": "f019",
+      "name": "Big 1 (FB1) Plastic Storage Cabinet (Deep Blue and Grey)",
+      "category": "furniture",
+      "image": "images/furniture/f19.png",
+      "description": "The Modern & Contemporary designed double door storage cabinet is durable and features high-quality plastic construction an ideal storage solution for every and any house hold",
+      "additionalImages": [
+        "images/furniture/f19_1.png",
+        "images/furniture/f19_2.png",
+        "images/furniture/f19_3.png"
+      ],
+      "details": [
+        "Safety lock and tower bolt provide protection, contemporary design to elevate your living space",
+        "The cabinet comes with three shelves to solve all your storage solution",
+        "Modern, easy-assemble knockdown design with dual doors"
+      ]
+    },
+    {
+      "id": "f020",
+      "name": "FMDR 2B Plastic Storage Cabinet with 2 Drawer (Deep Blue / Grey)",
+      "category": "furniture",
+      "image": "images/furniture/f20.png",
+      "description": "Lightweight double-door cabinet crafted with high-quality plastic",
+      "additionalImages": [
+        "images/furniture/f20_1.png",
+        "images/furniture/f20_2.png",
+        "images/furniture/f20_3.png"
+      ],
+      "details": [
+        "Dig the exclusive drawer at the bottom for more storage space",
+        "Equipped with multiple easy-to-clean and adjustable shelves",
+        "Easy to assemble design & highly-resilient knockdown build"
+      ]
+    },
+    {
+      "id": "f021",
+      "name": "Mini Medium (FMM) Plastic Storage Cabinet (Deep Blue / Grey)",
+      "category": "furniture",
+      "image": "images/furniture/f21.png",
+      "description": "Spacious Freedom Mini Medium (FMM) Cabinet",
+      "additionalImages": [
+        "images/furniture/f21_!.png",
+        "images/furniture/f21_2.png",
+        "images/furniture/f21_3.png"
+      ],
+      "details": [
+        "Crafted from high-quality and enduring plastic",
+        "Three adjustable shelves for books and clothes",
+        "Safety lock and tower bolt provide protection"
+      ]
+    },
+    {
+      "id": "f022",
+      "name": "Mini Medium Cabinet (FMM) (Rust Brown / New Cream)",
+      "category": "furniture",
+      "image": "images/furniture/f22.png",
+      "description": "Spacious Freedom Mini Medium (FMM) Cabinet",
+      "additionalImages": [
+        "images/furniture/f22_1.png",
+        "images/furniture/f22_2.png",
+        "images/furniture/f22_3.png"
+      ],
+      "details": [
+        "Crafted from high-quality and enduring plastic",
+        "Three adjustable shelves for books and clothes",
+        "Safety lock and tower bolt provide protection"
+      ]
+    },
+    {
+      "id": "f023",
+      "name": "Mini Medium Cabinet (FMM) (Rust Brown / New Cream)",
+      "category": "furniture",
+      "image": "images/furniture/f23.png",
+      "description": "Lightweight double-door cabinet crafted with high-quality plastic",
+      "additionalImages": [
+        "images/furniture/f23_1.png",
+        "images/furniture/f23_2.png",
+        "images/furniture/f23_3.png"
+      ],
+      "details": [
+        "Equipped with multiple easy-to-clean and adjustable shelves",
+        "Designed to resist corrosion and termites effectively",
+        "Easy to assemble design"
+      ]
+    },
+    {
+      "id": "f024",
+      "name": "Mini Medium Plastic Cabinet",
+      "category": "furniture",
+      "image": "images/furniture/f24.png",
+      "description": "Crafted from high-quality and enduring plastic",
+      "additionalImages": [
+        "images/furniture/f24_1.png",
+        "images/furniture/f24_2.png",
+        "images/furniture/f24_3.png"
+      ],
+      "details": [
+        "Three adjustable shelves for books and clothes",
+        "The safety lock and tower bolt offer protection",
+        "Modern, easy-assemble design with dual doors"
+      ]
+    },
+    {
+      "id": "f025",
+      "name": "Mini Large (FML) Plastic Storage Cabinet (Bright Red / Yellow)",
+      "category": "furniture",
+      "image": "images/furniture/f25.png",
+      "description": "The Modern & Contemporary designed double door storage cabinet is durable and features high-quality plastic construction an ideal storage solution for every and any house hold",
+      "additionalImages": [
+        "images/furniture/f25_1.png",
+        "images/furniture/f25_2.png",
+        "images/furniture/f25_3.png"
+      ],
+      "details": [
+        "Aside from its lightweight design, the cabinet features knockdown construction making it extremely robust",
+        "Safety lock and tower bolt provide protection, contemporary design to elevate your living space",
+        "The cabinet comes with 4 shelves to solve all your storage solution"
+      ]
+    },
+    {
+      "id": "f026",
+      "name": " FMM Jungle Theme Mini Cabinet (Beach & Pastel Orange)",
+      "category": "furniture",
+      "image": "images/furniture/f26.png",
+      "description": "Spacious Freedom Mini Medium (FMM) Cabinet",
+      "additionalImages": [
+        "images/furniture/f26_1.png",
+        "images/furniture/f26_2.png",
+        "images/furniture/f26_3.png"
+      ],
+      "details": [
+        "Crafted from high-quality and enduring plastic",
+        "Three adjustable shelves for books and clothes",
+        "Safety lock and tower bolt provide protection"
+      ]
+    },
+    {
+      "id": "f027",
+      "name": " Freedom Mini Small (FMS) Plastic Storage Cabinet (Bright Red / Yellow)",
+      "category": "furniture",
+      "image": "images/furniture/f27.png",
+      "description": "LIGHTWEIGHT DOUBLE-DOOR CABINET CRAFTED WITH HIGH-QUALITY PLASTIC : Organize your room space with Nilkamal's FMS plastic storage cabinet. This durable cabinet features high-quality plastic construction and a handy double door design, making it ideal for household usage",
+      "additionalImages": [
+        "images/furniture/f27_1.png",
+        "images/furniture/f27_2.png",
+        "images/furniture/f27_3.png"
+      ],
+      "details": [
+        "EASY TO ASSEMBLE DESIGN & HIGHLY RESILIENT KNOCKDOWN BUILD : With an easy-to-assemble design, putting together the Freedom FMS Plastic Storage Cabinet becomes a breeze. Aside from its lightweight design, the cabinet features knockdown construction making it extremely robust",
+        "EQUIPPED WITH MULTIPLE EASY-TO-CLEAN AND ADJUSTABLE SHELVES : Cleaning your cabinet is never a problem with the Freedom FMS Plastic Storage Cabinet. In addition to offering ample storage space through adjustable shelves, the cabinet is easy to clean so that you don't have to spend hours cleaning it",
+        "DESIGNED TO RESIST CORROSION AND TERMITES EFFECTIVELY : A hardwood cabinet is always prone to termite infestation, but that is not the case with Nilkamal's Freedom FMS Plastic Storage Cabinet. This cabinet is engineered to be corrosion and termite resistant, allowing it to survive longer than a standard cabinet"
+      ]
+    },
+    {
+      "id": "f028",
+      "name": " Mini 09 (FMSC09) Plastic Shoe Cabinet (Weather Brown)",
+      "category": "furniture",
+      "image": "images/furniture/f28.png",
+      "description": "Lightweight double-door cabinet crafted with high-quality plastic",
+      "additionalImages": [
+        "images/furniture/f28_1.png",
+        "images/furniture/f28_2.png",
+        "images/furniture/f28_3.png"
+      ],
+      "details": [
+        "Equipped with multiple easy-to-clean and adjustable shelves",
+        "Easy to assemble design & highly-resilient knockdown build",
+        "Designed to resist corrosion and termites effectively"
+      ]
+    },
+    {
+      "id": "f029",
+      "name": " Small 1 (Deep Blue and Grey)",
+      "category": "furniture",
+      "image": "images/furniture/f29.png",
+      "description": "Lightweight double-door cabinet crafted with high-quality plastic",
+      "additionalImages": [
+        "images/furniture/f29_1.png",
+        "images/furniture/f29_2.png",
+        "images/furniture/f29_3.png"
+      ],
+      "details": [
+        "Equipped with multiple easy-to-clean and adjustable shelves",
+        "Easy to assemble design & highly-resilient knockdown build",
+        "Designed to resist corrosion and termites effectively"
+      ]
+    },
+    {
+      "id": "f030",
+      "name": " Big 1 (FB1M) Plastic Storage Cabinet with Mirror (Deep Blue & Grey)",
+      "category": "furniture",
+      "image": "images/furniture/f30.png",
+      "description": "BThe Modern & Contemporary designed double door storage cabinet is durable and features high-quality plastic construction an ideal storage solution for every and any house hold",
+      "additionalImages": [
+        "images/furniture/f30_1.png",
+        "images/furniture/f30_2.png",
+        "images/furniture/f30_3.png"
+      ],
+      "details": [
+        "Safety lock and tower bolt provide protection, contemporary design and has glass mirror to suffice your fashionista mood",
+        "Aside from its lightweight design, the cabinet features knockdown construction making it extremely robust",
+        "The cabinet comes with three shelves to solve all your storage solution"
+      ]
+    },
+    {
+      "id": "f031",
+      "name": " Small 1 (Pepsi Blue, Bright Red and Yellow)",
+      "category": "furniture",
+      "image": "images/furniture/f31.png",
+      "description": "Lightweight double-door cabinet crafted with high-quality plastic",
+      "additionalImages": [
+        "images/furniture/f31_1.png",
+        "images/furniture/f31_2.png",
+        "images/furniture/f31_3.png"
+      ],
+      "details": [
+        "Equipped with multiple easy-to-clean and adjustable shelves",
+        "Designed to resist corrosion and termites effectively",
+        "Highly-resilient knockdown build"
+      ]
+    },
+    {
+      "id": "f032",
+      "name": "Mini Medium (FMM) Plastic Storage Cabinet (Bright Red / Yellow)",
+      "category": "furniture",
+      "image": "images/furniture/f32.png",
+      "description": "Spacious Freedom Mini Medium (FMM) Cabinet",
+      "additionalImages": [
+        "images/furniture/f32_1.png",
+        "images/furniture/f32_2.png",
+        "images/furniture/f32_3.png"
+      ],
+      "details": [
+        "Lightweight and multipurpose dual-door, Solid Patter cabinet.",
+        "Crafted from high-quality and enduring plastic",
+        "Three adjustable shelves for books and clothes"
+      ]
+    },
+    {
+      "id": "f033",
+      "name": "Mini Medium (FMM) Cabinet (Weather Brown / Biscuit)",
+      "category": "furniture",
+      "image": "images/furniture/f33.png",
+      "description": "Spacious Freedom Mini Medium (FMM) Cabinet",
+      "additionalImages": [
+        "images/furniture/f33_1.png",
+        "images/furniture/f33_2.png",
+        "images/furniture/f33_3.png"
+      ],
+      "details": [
+        "Lightweight and multipurpose dual-door, Solid Patter cabinet.",
+        "Crafted from high-quality and enduring plastic",
+        "Three adjustable shelves for books and clothes"
+      ]
+    },
+    {
+      "id": "f034",
+      "name": "Mini Medium (FMM) Plastic Storage Cabinet (Haze Grey/Charcoal Grey)",
+      "category": "furniture",
+      "image": "images/furniture/f34.png",
+      "description": "Spacious Freedom Mini Medium (FMM) Cabinet",
+      "additionalImages": [
+        "images/furniture/f34_1.png",
+        "images/furniture/f34_2.png",
+        "images/furniture/f34_3.png"
+      ],
+      "details": [
+        "Lightweight and multipurpose dual-door, Solid Patter cabinet.",
+        "Crafted from high-quality and enduring plastic",
+        "Three adjustable shelves for books and clothes"
+      ]
+    },
+    {
+      "id": "f035",
+      "name": "Mini (FMSJ) Jungle Theme Kids Plastic Storage Cabinet (Beach/Pastel Orange)",
+      "category": "furniture",
+      "image": "images/furniture/f35.png",
+      "description": "Featuring a fun jungle animal theme, this cabinet is a great addition to your child's room",
+      "additionalImages": [
+        "images/furniture/f35_1.png",
+        "images/furniture/f35_2.png",
+        "images/furniture/f35_3.png"
+      ],
+      "details": [
+        "Crafted from high-quality and enduring plastic that ensures durability",
+        "Stylish double-door cabinet with compact size that fits well in small spaces",
+        "Lightweight design with knockdown construction for added robustness"
+      ]
+    },
+    {
+      "id": "f036",
+      "name": "Mini Small (FMS) Plastic Storage Cabinet (Haze Grey/Charcoal Grey)",
+      "category": "furniture",
+      "image": "images/furniture/f36.png",
+      "description": "Crafted from high-quality and enduring plastic",
+      "additionalImages": [
+        "images/furniture/f36_1.png",
+        "images/furniture/f36_2.png",
+        "images/furniture/f36_3.png"
+      ],
+      "details": [
+        "Crafted from high-quality and enduring plastic that ensures durability",
+        "Stylish double-door cabinet with compact size that fits well in small spaces",
+        "Lightweight design with knockdown construction for added robustness"
+      ]
+    },
+    {
+      "id": "f037",
+      "name": "Mini Small (FMS) Plastic Storage Cabinet (Weather Brown)",
+      "category": "furniture",
+      "image": "images/furniture/f37.png",
+      "description": "Crafted from high-quality and enduring plastic",
+      "additionalImages": [
+        "images/furniture/f37_1.png",
+        "images/furniture/f37_2.png",
+        "images/furniture/f37_3.png"
+      ],
+      "details": [
+        "Crafted from high-quality and enduring plastic that ensures durability",
+        "Stylish double-door cabinet with compact size that fits well in small spaces",
+        "Lightweight design with knockdown construction for added robustness"
+      ]
+    },
+    {
+      "id": "f039",
+      "name": "CHR2061 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f39.png",
+      "description": "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability and a lightweight design for portability and long-lasting use.",
+      "additionalImages": [
+        "images/furniture/f39_1.png",
+        "images/furniture/f39_2.png",
+        "images/furniture/f39_3.png"
+      ],
+      "details": [
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: An aesthetic design with patterns offers an appealing touch to your chair, making your room feel more comfortable and welcoming.",
+        "Glossy Finish: The elegant marble beige colour combines with a gloss finish to further accent the appeal of the chairs, making it a stylish complement to the decor."
+      ]
+    },
+    {
+      "id": "f040",
+      "name": "CCHR2060 Plastic Arm Chairr",
+      "category": "furniture",
+      "image": "images/furniture/f40.png",
+      "description": "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability and a lightweight design for portability and long-lasting use.",
+      "additionalImages": [
+        "images/furniture/f40_1.png",
+        "images/furniture/f40_2.png",
+        "images/furniture/f40_3.png"
+      ],
+      "details": [
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: An aesthetic design with patterns offers an appealing touch to your chair, making your room feel more comfortable and welcoming.",
+        "Glossy Finish: The elegant marble beige colour combines with a gloss finish to further accent the appeal of the chairs, making it a stylish complement to the decor."
+      ]
+    },
+    {
+      "id": "f041",
+      "name": "Eeezy Go Plastic Armchair (Season Rust Brown)",
+      "category": "furniture",
+      "image": "images/furniture/f41.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f41_1.png",
+        "images/furniture/f41_2.png",
+        "images/furniture/f41_3.png"
+      ],
+      "details": [
+        "The bucket design offers prolonged sitting comfort",
+        "The matte finish on the chair adds aesthetic appeal",
+        "125 kg weight capacity for secure and stable sitting"
+      ]
+    },
+    {
+      "id": "f042",
+      "name": "Exotica Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f42.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f42_1.png",
+        "images/furniture/f42_2.png",
+        "images/furniture/f42_3.png"
+      ],
+      "details": [
+        "High-quality plastic construction for lasting durability",
+        "Ergonomic design ensures prolonged sitting comfort",
+        "The matte finish on the chair adds aesthetic appeal"
+      ]
+    },
+    {
+      "id": "f043",
+      "name": "ECHR6020 Plastic Arm Chair (Weather Brown)",
+      "category": "furniture",
+      "image": "images/furniture/f43.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f43_1.png",
+        "images/furniture/f43_2.png",
+        "images/furniture/f43_3.png"
+      ],
+      "details": [
+        "High-quality plastic construction for lasting durability",
+        "Ergonomic design ensures prolonged sitting comfort",
+        "The matte finish on the chair adds aesthetic appeal"
+      ]
+    },
+    {
+      "id": "f044",
+      "name": "Illusion Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f44.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f44_1.png",
+        "images/furniture/f44_2.png",
+        "images/furniture/f44_3.png"
+      ],
+      "details": [
+        "High-quality plastic construction for lasting durability",
+        "Ergonomic design ensures prolonged sitting comfort",
+        "The matte finish on the chair adds aesthetic appeal"
+      ]
+    },
+    {
+      "id": "f045",
+      "name": "HR2135 Plastic Arm Chair (Weather Brown)",
+      "category": "furniture",
+      "image": "images/furniture/f45.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f45_1.png",
+        "images/furniture/f45_2.png",
+        "images/furniture/f45_3.png"
+      ],
+      "details": [
+        "High-quality plastic construction for lasting durability",
+        "Ergonomic design ensures prolonged sitting comfort",
+        "The matte finish on the chair adds aesthetic appeal"
+      ]
+    },
+    {
+      "id": "f046",
+      "name": "CHR2225 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f46.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f46_1.png",
+        "images/furniture/f46_2.png",
+        "images/furniture/f46_3.png"
+      ],
+      "details": [
+        "High-quality plastic construction for lasting durability",
+        "Ergonomic design ensures prolonged sitting comfort",
+        "The matte finish on the chair adds aesthetic appeal"
+      ]
+    },
+    {
+      "id": "f047",
+      "name": " Novella 10 Plastic Arm Chair (Black)",
+      "category": "furniture",
+      "image": "images/furniture/f47.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f47_1.png",
+        "images/furniture/f47_2.png",
+        "images/furniture/f47_3.png"
+      ],
+      "details": [
+        "High-quality plastic construction for lasting durability",
+        "Ergonomic design ensures prolonged sitting comfort",
+        "The matte finish on the chair adds aesthetic appeal"
+      ]
+    },
+    {
+      "id": "f048",
+      "name": " CHR2005 Plastic Arm Chair (Marble Beige)",
+      "category": "furniture",
+      "image": "images/furniture/f48.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f48_1.png",
+        "images/furniture/f48_2.png",
+        "images/furniture/f48_3.png"
+      ],
+      "details": [
+        "High-quality plastic construction for lasting durability",
+        "Ergonomic design ensures prolonged sitting comfort",
+        "The matte finish on the chair adds aesthetic appeal"
+      ]
+    },
+    {
+      "id": "f049",
+      "name": " CHR2101 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f49.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f49_1.png",
+        "images/furniture/f49_2.png",
+        "images/furniture/f49_3.png"
+      ],
+      "details": [
+        "High-quality plastic construction for lasting durability",
+        "Ergonomic design ensures prolonged sitting comfort",
+        "The matte finish on the chair adds aesthetic appeal"
+      ]
+    },
+    {
+      "id": "f050",
+      "name": " Tulip Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f50.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f50_1.png",
+        "images/furniture/f50_2.png",
+        "images/furniture/f50_3.png"
+      ],
+      "details": [
+        "Sturdy, high-quality plastic construction ensures durability",
+        "Modern design with attractive leaves pattern adds elegance.",
+        "Ergonomic build promotes comfortable posture during extended use."
+      ]
+    },
+    {
+      "id": "f051",
+      "name": " Paradise Plastic Arm Chair (Ratian Dark Beige, Season Rust Brown & Ivory)",
+      "category": "furniture",
+      "image": "images/furniture/f51.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f51_1.png",
+        "images/furniture/f51_2.png",
+        "images/furniture/f51_3.png"
+      ],
+      "details": [
+        "India’s First Plastic Tri-Colour Injection Moulding Chair with dual tone backrest",
+        "Tessellated back design featuring aesthetically designed air-vents",
+        "Easy-to-clean chair with reliable armrests for convenience"
+      ]
+    },
+    {
+      "id": "f052",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f52.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f52_1.png",
+        "images/furniture/f52_2.png",
+        "images/furniture/f52_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f053",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f53.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f53_1.png",
+        "images/furniture/f53_2.png",
+        "images/furniture/f53_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f054",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f54.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f54_1.png",
+        "images/furniture/f54_2.png",
+        "images/furniture/f54_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f055",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f55.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f55_1.png",
+        "images/furniture/f55_2.png",
+        "images/furniture/f55_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f056",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f56.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f56_1.png",
+        "images/furniture/f56_2.png",
+        "images/furniture/f56_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f057",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f57.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f57_1.png",
+        "images/furniture/f57_2.png",
+        "images/furniture/f57_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f058",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f58.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f58_1.png",
+        "images/furniture/f58_2.png",
+        "images/furniture/f58_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f059",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f59.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f59_1.png",
+        "images/furniture/f59_2.png",
+        "images/furniture/f59_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f060",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f60.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f60_1.png",
+        "images/furniture/f60_2.png",
+        "images/furniture/f60_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f061",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f61.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f61_1.png",
+        "images/furniture/f61_2.png",
+        "images/furniture/f61_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f062",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f62.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f62_1.png",
+        "images/furniture/f62_2.png",
+        "images/furniture/f62_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f063",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f63.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f63_1.png",
+        "images/furniture/f63_2.png",
+        "images/furniture/f63_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f064",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f64.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f64_1.png",
+        "images/furniture/f64_2.png",
+        "images/furniture/f64_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f065",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f65.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f65_1.png",
+        "images/furniture/f65_2.png",
+        "images/furniture/f65_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f066",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f66.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f66_1.png",
+        "images/furniture/f66_2.png",
+        "images/furniture/f66_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f067",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f67.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f67_1.png",
+        "images/furniture/f67_2.png",
+        "images/furniture/f67_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f068",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f68.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f68_1.png",
+        "images/furniture/f68_2.png",
+        "images/furniture/f68_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f069",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f69.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f69_1.png",
+        "images/furniture/f69_2.png",
+        "images/furniture/f69_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f070",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f70.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f70_1.png",
+        "images/furniture/f70_2.png",
+        "images/furniture/f70_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f071",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f71.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f71_1.png",
+        "images/furniture/f71_2.png",
+        "images/furniture/f71_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f072",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f72.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f72_1.png",
+        "images/furniture/f72_2.png",
+        "images/furniture/f72_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f073",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f73.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f73_1.png",
+        "images/furniture/f73_2.png",
+        "images/furniture/f73_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f074",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f74.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f74_1.png",
+        "images/furniture/f74_2.png",
+        "images/furniture/f74_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f075",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f75.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f75_1.png",
+        "images/furniture/f75_2.png",
+        "images/furniture/f75_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f076",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f76.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f76_1.png",
+        "images/furniture/f76_2.png",
+        "images/furniture/f76_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f077",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f77.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f77_1.png",
+        "images/furniture/f77_2.png",
+        "images/furniture/f77_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f078",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f78.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f78_1.png",
+        "images/furniture/f78_2.png",
+        "images/furniture/f78_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f079",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f79.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f79_1.png",
+        "images/furniture/f79_2.png",
+        "images/furniture/f79_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f080",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f80.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f80_1.png",
+        "images/furniture/f80_2.png",
+        "images/furniture/f80_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f081",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f81.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f81_1.png",
+        "images/furniture/f81_2.png",
+        "images/furniture/f81_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f082",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f82.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f82_1.png",
+        "images/furniture/f82_2.png",
+        "images/furniture/f82_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f083",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f83.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f83_1.png",
+        "images/furniture/f83_2.png",
+        "images/furniture/f83_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f084",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f84.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f84_1.png",
+        "images/furniture/f84_2.png",
+        "images/furniture/f84_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f085",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f85.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f85_1.png",
+        "images/furniture/f85_2.png",
+        "images/furniture/f85_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f086",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f86.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f86_1.png",
+        "images/furniture/f86_2.png",
+        "images/furniture/f86_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f087",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f87.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f87_1.png",
+        "images/furniture/f87_2.png",
+        "images/furniture/f87_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f088",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f88.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f88_1.png",
+        "images/furniture/f88_2.png",
+        "images/furniture/f88_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f089",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f89.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f89_1.png",
+        "images/furniture/f89_2.png",
+        "images/furniture/f89_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f090",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f90.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f90_1.png",
+        "images/furniture/f90_2.png",
+        "images/furniture/f90_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f091",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f91.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f91_1.png",
+        "images/furniture/f91_2.png",
+        "images/furniture/f91_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f092",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f92.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f92_1.png",
+        "images/furniture/f92_2.png",
+        "images/furniture/f92_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f093",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f93.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f93_1.png",
+        "images/furniture/f93_2.png",
+        "images/furniture/f93_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f094",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f94.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f94_1.png",
+        "images/furniture/f94_2.png",
+        "images/furniture/f94_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f095",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f95.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f95_1.png",
+        "images/furniture/f95_2.png",
+        "images/furniture/f95_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f096",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f96.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f96_1.png",
+        "images/furniture/f96_2.png",
+        "images/furniture/f96_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f097",
+      "name": "CHR2051 Plastic Arm Chair (Pear Wood)",
+      "category": "furniture",
+      "image": "images/furniture/f97.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f97_1.png",
+        "images/furniture/f97_2.png",
+        "images/furniture/f97_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f098",
+      "name": " Mystique Plastic Arm Chair (Charcoal Grey)",
+      "category": "furniture",
+      "image": "images/furniture/f98.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f98_1.png",
+        "images/furniture/f98_2.png",
+        "images/furniture/f98_3.png"
+      ],
+      "details": [
+        "Weight Bearing Capacity : 125 Kg."
+        
+      ]
+    },
+    {
+      "id": "f099",
+      "name": "CHR2197 Premium Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f99.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f99_1.png",
+        "images/furniture/f99_2.png",
+        "images/furniture/f99_3.png"
+      ],
+      "details": [
+        "Ergonomic design ensures prolonged sitting comfort",
+        "A glossy poly-marble finish adds an appealing touch",
+        "125 kg weight capacity for secure and stable sitting"
+     ]
+    },
+    {
+      "id": "f100",
+      "name": "Platinum Premium Plastic Arm Chair (Rattan Dark Beige)",
+      "category": "furniture",
+      "image": "images/furniture/f100.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f100_1.png",
+        "images/furniture/f100_2.png",
+        "images/furniture/f100_3.png"
+      ],
+      "details": [
+        "Ergonomic design ensures prolonged sitting comfort",
+        "A glossy poly-marble finish adds an appealing touch",
+        "125 kg weight capacity for secure and stable sitting"
+     ]
+    },
+    {
+      "id": "f101",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f101.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f101_1.png",
+        "images/furniture/f101_2.png",
+        "images/furniture/f101_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f102",
+      "name": "Captain Plastic Arm Chair (Season Rust Brown)",
+      "category": "furniture",
+      "image": "images/furniture/f102.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f102_1.png",
+        "images/furniture/f102_2.png",
+        "images/furniture/f102_3.png"
+      ],
+     "details": [
+        "Ergonomic design ensures prolonged sitting comfort",
+        "A glossy poly-marble finish adds an appealing touch",
+        "125 kg weight capacity for secure and stable sitting"
+     ]
+    },
+    {
+      "id": "f103",
+      "name": "Mystique Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f103.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f103_1.png",
+        "images/furniture/f103_2.png",
+        "images/furniture/f103_3.png"
+      ],
+     "details": [
+        "Ergonomic design ensures prolonged sitting comfort",
+        "A glossy poly-marble finish adds an appealing touch",
+        "125 kg weight capacity for secure and stable sitting"
+     ]
+    },
+    {
+      "id": "f104",
+      "name": "Platinum Plastic Arm Chair (Mango Wood)",
+      "category": "furniture",
+      "image": "images/furniture/f104.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f104_1.png",
+        "images/furniture/f104_2.png",
+        "images/furniture/f104_3.png"
+      ],
+      "details": [
+        "Ergonomic design ensures prolonged sitting comfort",
+        "A glossy poly-marble finish adds an appealing touch",
+        "125 kg weight capacity for secure and stable sitting"
+      ]
+    },
+    {
+      "id": "f105",
+      "name": "Heritage Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f105.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f105_1.png",
+        "images/furniture/f105_2.png",
+        "images/furniture/f105_3.png"
+      ],
+      "details": [
+        "Ergonomic design ensures prolonged sitting comfort",
+        "A glossy poly-marble finish adds an appealing touch",
+        "125 kg weight capacity for secure and stable sitting"
+      ]
+    },
+    {
+      "id": "f106",
+      "name": "Eeezy Go Plastic Arm Chair (Peach)",
+      "category": "furniture",
+      "image": "images/furniture/f106.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f106_1.png",
+        "images/furniture/f106_2.png",
+        "images/furniture/f106_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f107",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f107.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f107_1.png",
+        "images/furniture/f107_2.png",
+        "images/furniture/f107_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f108",
+      "name": "CHR2150 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f108.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f108_1.png",
+        "images/furniture/f108_2.png",
+        "images/furniture/f108_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f109",
+      "name": " CHR2209 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f109.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f109_1.png",
+        "images/furniture/f109_2.png",
+        "images/furniture/f109_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f110",
+      "name": "CHR2231 Plastic Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f110.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f110_1.png",
+        "images/furniture/f110_2.png",
+        "images/furniture/f110_3.png"
+      ],
+      "details": [
+        "Durable Plastic Body: The premium virgin plastic material on the armchair provides superior durability, lightweightness, and portability for long-lasting use.",
+        "Comfortable Design: The ergonomic construction of the chair with supportive armrests and 125 kg load-bearing capacity keeps you comfortable while sitting, even for extended hours.",
+        "Contemporary Style: Simplistic design with clean lines offers an appealing touch to your chair, making your room feel more comfortable and welcoming."
+      ]
+    },
+    {
+      "id": "f111",
+      "name": " Captain Chair with Leatherette Cushion",
+      "category": "furniture",
+      "image": "images/furniture/f111.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f111_1.png",
+        "images/furniture/f111_2.png",
+        "images/furniture/f111_3.png"
+      ],
+      "details": [
+        "High-quality plastic construction for lasting durability",
+        "Chic, ergonomic design for prolonged sitting comfort",
+        "Netted patterns and a matte finish embellish the look"
+      ]
+    },
+    {
+      "id": "f112",
+      "name": "Toy Jungle Plastic Kids Arm Chair (Blue / Red)",
+      "category": "furniture",
+      "image": "images/furniture/f112.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f112_1.png",
+        "images/furniture/f112_2.png",
+        "images/furniture/f112_3.png"
+      ],
+      "details": [
+        "Kids rocker chair with horse face armrests",
+        "Designed for a fun sitting experience for kids",
+        "Allows for easy cleaning and maintenance"
+      ]
+    },
+    {
+      "id": "f113",
+      "name": " Toy Jungle Plastic Baby Arm Chair",
+      "category": "furniture",
+      "image": "images/furniture/f113.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f113_1.png",
+        "images/furniture/f113_2.png",
+        "images/furniture/f113_3.png"
+      ],
+      "details": [
+        "Kids rocker chair with horse face armrests",
+        "Designed for a fun sitting experience for kids",
+        "Allows for easy cleaning and maintenance"
+      ]
+    },
+    {
+      "id": "f114",
+      "name": "Eeezy Go Plastic Baby Arm Chair (Lime Light Green)",
+      "category": "furniture",
+      "image": "images/furniture/f114.png",
+      "description": "Super sturdy virgin plastic construction ensures durability",
+      "additionalImages": [
+        "images/furniture/f114_1.png",
+        "images/furniture/f114_2.png",
+        "images/furniture/f114_3.png"
+      ],
+      "details": [
+        "High-quality virgin plastic build for lasting durability",
+        "Ergonomic design ensures prolonged sitting comfort",
+        "Vibrant colour has a cheerful and attractive appeal"
+      ]
+    },
+    {
+      "id": "f115",
+      "name": "Eeezy Go Plastic Baby Arm Chair (Orange)",
+      "category": "furniture",
+      "image": "images/furniture/f115.png",
+      "description": "A moulded virgin plastic build for lasting durability",
+      "additionalImages": [
+        "images/furniture/f115_1.png",
+        "images/furniture/f115_2.png",
+        "images/furniture/f115_3.png"
+      ],
+      "details": [
+        "High-quality virgin plastic build for lasting durability",
+        "Ergonomic design ensures prolonged sitting comfort",
+        "Vibrant colour has a cheerful and attractive appealVibrant colour has a cheerful and attractive appeal"
+      ]
+    },
+    {
+      "id": "f116",
+      "name": "Octo Junior Plastic Kids Chair with Tray",
+      "category": "furniture",
+      "image": "images/furniture/f116.png",
+      "description": "Made from durable virgin PP material for long-lasting sturdiness",
+      "additionalImages": [
+        "images/furniture/f116_1.png",
+        "images/furniture/f116_2.png",
+        "images/furniture/f116_3.png"
+      ],
+      "details": [
+        "Kid-friendly design with an animal back print for a playful appeal",
+        "Features a detachable press-fit tray for convenient use",
+        "Tray supports up to 5 kg, while the chair holds up to 40 kg"
+      ]
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  ],
+  "electronics": [
+    {
+      "id": "e001",
+      "name": "Smart TV 55\"",
+      "category": "electronics",
+      "image": "images/electronics1.jpg",
+      "description": "55-inch 4K Smart TV with HDR technology",
+      "additionalImages": [
+        "images/electronics1-detail1.jpg",
+        "images/electronics1-detail2.jpg",
+        "images/electronics1-detail3.jpg"
+      ],
+      "details": [
+        "4K Ultra HD resolution",
+        "HDR support for vibrant colors",
+        "Smart TV features with app support",
+        "Voice control capability",
+        "Multiple HDMI and USB ports"
+      ]
+    },
+    {
+      "id": "e002",
+      "name": "Wireless Headphones",
+      "category": "electronics",
+      "image": "images/electronics2.jpg",
+      "description": "Noise-cancelling wireless headphones with 30-hour battery life",
+      "additionalImages": [
+        "images/electronics2-detail1.jpg",
+        "images/electronics2-detail2.jpg",
+        "images/electronics2-detail3.jpg"
+      ],
+      "details": [
+        "Active noise cancellation",
+        "30-hour battery life",
+        "Bluetooth 5.0 connectivity",
+        "Built-in microphone for calls",
+        "Foldable design for portability"
+      ]
+    }
+  ],
+  "networking": [
+    {
+      "id": "n001",
+      "name": "Network Router",
+      "category": "networking",
+      "image": "images/networking1.jpg",
+      "description": "High-speed dual-band router with advanced security features",
+      "additionalImages": [
+        "images/networking1-detail1.jpg",
+        "images/networking1-detail2.jpg",
+        "images/networking1-detail3.jpg"
+      ],
+      "details": [
+        "Dual-band WiFi (2.4GHz and 5GHz)",
+        "Gigabit Ethernet ports",
+        "Advanced security with WPA3",
+        "Parental controls",
+        "Guest network support"
+      ]
+    },
+    {
+      "id": "n002",
+      "name": "Network Switch",
+      "category": "networking",
+      "image": "images/networking2.jpg",
+      "description": "24-port gigabit network switch for business environments",
+      "additionalImages": [
+        "images/networking2-detail1.jpg",
+        "images/networking2-detail2.jpg",
+        "images/networking2-detail3.jpg"
+      ],
+      "details": [
+        "24 Gigabit Ethernet ports",
+        "Plug-and-play installation",
+        "Energy-efficient design",
+        "Fanless operation for quiet environments",
+        "VLAN support for network segmentation"
+      ]
+    }
+  ]
+} 
